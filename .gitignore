@@ -1,3 +1,4 @@
 # Ignore Data folder and config.py
 Data/
 config.py
+.DS_Store
